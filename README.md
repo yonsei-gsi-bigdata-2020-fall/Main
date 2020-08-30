@@ -190,13 +190,8 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
-## Make School Course Policies
+## Tools
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
-- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
-- [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
-- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
-- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+- [Slack](https://app.slack.com/client/T019XTH0VGU) - 모든 커뮤니케이션은 슬랙을 통해서 해주세요! (특별한 경우에만 이메일로)
+- [kahoot.it](https://kahoot.it) - 퀴즈때 사용할 서비스입니다.
+- [cohoot](https://cohoot.link) - 수업 중 코드 복/붙을 위한 서비스입니다.
