@@ -192,7 +192,7 @@ To pass this course you must meet the following requirements:
 
 ## Tools
 
-- [Slack](https://app.slack.com/client/T019XTH0VGU) - 모든 커뮤니케이션은 슬랙을 통해서 해주세요! (특별한 경우에만 이메일로)
+- [Slack](https://gsi7564-012020-fall.slack.com/) - 모든 커뮤니케이션은 슬랙을 통해서 해주세요! (특별한 경우에만 이메일로)
 - [Kahoot](https://kahoot.it) - 퀴즈때 사용할 서비스입니다.
 - [Cohoot](https://cohoot.link) - 수업 중 코드 복/붙을 위한 서비스입니다.
 - [Yscec](https://yscec.yonsei.ac.kr/course/view.php?id=171952) - 성적 확인용입니다.
