@@ -1,6 +1,5 @@
 # Title
 
-### [Reveal Slide Instructions](./Reveal/README.md) <-- Remove this before updating your repo
 
 ## Course Description
 
