@@ -10,9 +10,7 @@ Describe your course here. A short elevator pitch for the course, use positive, 
 Explain why students should care to learn the material presented in this class.
 
 ## Prerequisites:  
-
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+선수과목이 없지만, 프로그래밍 수업을 들어보셨던 분들에게는 조금 더 수월한 과목이 될 것입니다.
 
 ## Learning Outcomes
 
