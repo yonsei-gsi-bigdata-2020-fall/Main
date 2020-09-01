@@ -17,14 +17,12 @@ Explain why students should care to learn the material presented in this class.
 ## Learning Outcomes
 
 ### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
+학기말이 되면 여러분들은 다음과 같은 것들을 할 수 있게됩니다.
 
-By the end of the course, you will be able to ...
-
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1. 파이썬 프로그래밍
+1. Scikit Learn을 이용한 머신러닝
+1. Hadoop과 Spark에 대한 이해
+1. AWS, Github, Shell 환경 활용
 
 ## Schedule
 
