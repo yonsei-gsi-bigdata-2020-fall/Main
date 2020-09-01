@@ -36,101 +36,31 @@ Please pick from a template below and delete the other ones
 
 ---
 
-**M/W Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
 
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
+**Course Dates:** 2020.09.04(금) – 2020.12.18(금) (16 weeks)
 
-**Class Times:** Monday, Wednesday at 9:30am–12:15pm (14 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Aug 19               | [Lesson 1] |
-|  2 |  Mon, Aug 24               | [Lesson 2] |
-|  3 |  Wed, Aug 26               | [Lesson 3] |
-|  4 |  Mon, Aug 31               | [Lesson 4] |
-|  5 |  Wed, Sept 2               | [Lesson 5] |
-|  - |  Mon, Sept 7               | **Holiday- Labor Day** |
-|  6 |  Wed, Sept 9               | [Lesson 7] |
-|  7 |  Mon, Sept 14              | [Lesson 8] |
-|  8 |  Wed, Sept 16              | [Lesson 9] |
-|  9 |  Mon, Sept 21              | [Lesson 10] |
-| 10 |  Wed, Sept 23              | [Lesson 11] |
-| 11 |  Mon, Sept 28              | [Lesson 12] |
-| 12 |  Wed, Sept 30              | [Lesson 13] |
-| 13 |  Mon, Oct 5                | [Lesson 14] |  
-| 14 |  Wed, Oct 7                | Final Exam/Presentations |
-
-
-**Tu/Th Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
-
-**Course Dates:** Thursday, August 20 – Tuesday, October 6, 2020 (7 weeks)
-
-**Class Times:** Tuesday and Thursday at 2:30–5:15pm (14 class sessions)
+**Class Times:** 금요일 1-3교시(9시-12시) (14 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Thu, Aug 20               | [Lesson 1] |
-|  2 |  Tue, Aug 25               | [Lesson 2] |
-|  3 |  Thu, Aug 27               | [Lesson 3] |
-|  4 |  Tue, Sept 1               | [Lesson 4] |
-|  5 |  Thu, Sept 3               | [Lesson 5] |
-|  6 |  Tue, Sept 8               | [Lesson 6] |
-|  7 |  Thu, Sept 10               | [Lesson 7] |
-|  8 |  Tue, Sept 15              | [Lesson 8] |
-|  9 |  Thu, Sept 17              | [Lesson 9] |
-| 10 |  Tue, Sept 22              | [Lesson 10] |
-| 11 |  Thu, Sept 24              | [Lesson 11] |
-| 12 |  Tue, Sept 29              | [Lesson 12] |
-| 13 |  Thu, Oct 1              | [Lesson 13] |
-| 14 |  Tue, Oct 6                | Final Exam/Presentations |
+|  1 |  9월 4일               | [Lesson 1] |
+|  2 |  9월 11일               | [Lesson 2] |
+|  3 |  9월 18일               | [Lesson 3] |
+|  4 |  9월 25일               | [Lesson 4] |
+|  - |  10월 2일               | **추석연휴** |
+|  - |  10월 9일               | **한글날** |
+|  5 |  10월 16일               | [Lesson 5] |
+|  6 |  10월 23일               | [Lesson 6] |
+|  7 |  10월 30일               | [Lesson 7] |
+|  8 |  11월 6일              | [Lesson 8] |
+|  9 |  11월 13일              | [Lesson 9] |
+|  10 |  11월 20일              | [Lesson 10] |
+| 11 |  11월 27일              | [Lesson 11] |
+| 12 |  12월 4일              | [Lesson 12] |
+| 13 |  12월 11일              | [Lesson 13] |
+| 14 |  12월 18일                | [Lesson 14] |  
 
 
-**M/W/F Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
-
-**Course Dates:** Wednesday, August 19 – Wednesday, October 7, 2020 (7 weeks)
-
-**Class Times:** Monday, Wednesday, Friday at 9:30am–10:30pm (21 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Aug 19               | [Lesson 1] |
-|  2 |  Fri, Aug 21               | [Lesson 2] |
-|  3 |  Mon, Aug 24               | [Lesson 3] |
-|  4 |  Wed, Aug 26               | [Lesson 4] |
-|  5 |  Fri, Aug 28               | [Lesson 5] |
-|  6 |  Mon, Aug 31               | [Lesson 6] |
-|  7 |  Wed, Sept 2               | [Lesson 7] |
-|  8 |  Fri, Sept 4               | [Lesson 8] |
-|  - |  Mon, Sept 7               | **Holiday- Labor Day** |
-|  9 |  Wed, Sept 9               | [Lesson 9] |
-| 10 |  Fri, Sept 11              | [Lesson 10] |
-| 11 |  Mon, Sept 14              | [Lesson 11] |
-| 12 |  Wed, Sept 16              | [Lesson 12] |
-| 13 |  Fri, Sept 18              | [Lesson 13] |
-| 14 |  Mon, Sept 21              | [Lesson 14] |
-| 15 |  Wed, Sept 23              | [Lesson 14] |
-| 16 |  Fri, Sept 25              | [Lesson 14] |
-| 17 |  Mon, Sept 28              | [Lesson 14] |
-| 18 |  Wed, Sept 30              | [Lesson 14] |
-| 19 |  Fri, Oct 2                | [Lesson 14] |  
-| 20 |  Mon, Oct 5                | [Lesson 14] |  
-| 21 |  Wed, Oct 7                | Final Exam/Presentations |
-
-**Fri Template [PLEASE REMOVE THIS HEADER BEFORE AUGUST 17]**
-
-**Course Dates:** Friday, August 21 – Friday, Oct 2, 2020 (7 weeks)
-
-**Class Times:** Friday at 9:30am–12:30pm (7 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Fri, Aug 21               | [Lesson 1] |
-|  2 |  Fri, Aug 28               | [Lesson 2] |
-|  3 |  Fri, Sept 4               | [Lesson 3] |
-|  4 |  Fri, Sept 11              | [Lesson 4] |
-|  5 |  Fri, Sept 18              | [Lesson 5] |
-|  6 |  Fri, Sept 25              | [Lesson 6] |
-|  7 |  Fri, Oct 2                | [Lesson 7] |  
 
 
 
