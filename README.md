@@ -28,15 +28,6 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
----
-
-**[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE AUGUST 17]**
-
-Please pick from a template below and delete the other ones
-
----
-
-
 **Course Dates:** 2020.09.04(금) – 2020.12.18(금) (16 weeks)
 
 **Class Times:** 금요일 1-3교시(9시-12시) (14 class sessions)
