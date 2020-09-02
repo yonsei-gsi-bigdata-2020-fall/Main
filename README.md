@@ -81,32 +81,29 @@
 
 ## Class Assignments
 
-We will be using [Gradescope](gradescope.com), which allows us to provide fast and accurate feedback on your work. *All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.*
+과제는 크게 두가지로 분류됩니다. 매주 제출해야하는 과제가 있기, 중간발표/기말발표가 있는 프로젝트가 있습니다.
 
-As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+### Weekly Assignments
 
-Your Gradescope login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
-
-### Tutorials
-
-- [Do Cool Stuff Tutorial]()
+- 매주 제출하는 과제는, 최대 1시간정도 소요되는 수준으로 출제될것이며, 과제형태는 매주 다르게 나옵니다. 그에 따라 채점 방식또한 그때 그때 상이합니다.
+- 해당 주차에 대한 복습을 위한 목적이 강하므로, 너무 스트레스 받지 마세요. :smile:
 
 ### Projects
-
-- [Project Template - Use to build your own project spec](https://github.com/Make-School-Labs/Project-Template)
+- 프로젝트는 최대 2인 1팀으로 구성합니다. 1인 1팀도 가능합니다.
+- 중간 발표는 프로젝트 주제를 정하고, 어떠한 데이터를 사용하여 무엇을 왜 하겠다 형식으로 발표를 합니다. (최대 5분)
+- 중간 발표는 채점용이 아닌, 과제에 적합성에 대해 피드백을 받는 과정입니다.
+- 기말 발표는 중간 발표 이후, 진행과정과 결과에 대해서 발표합니다. (최대 10분)
+- [Project 관련](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/tree/master/project)
 
 ## Evaluation
 
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH EVALUATIONS THAT PERTAIN TO YOUR COURSE. THE BELOW ARE PROVIDED AS A SAMPLE**
 
-To pass this course you must meet the following requirements:
-
-- Complete all required assignments 
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
+- 참여점수 (40%)
+    - 매주 제출되는 과제
+    - 슬랙을 활용한 참여도
+    - 출석
+- 프로젝트 점수 (60%)
+    - (TBD)자세한 평가기준은 추후 공개
 
 ## Tools
 
