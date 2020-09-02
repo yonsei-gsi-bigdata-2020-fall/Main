@@ -31,41 +31,41 @@
 
 | Class |          Date          |                 Topics                  |                 Assignment                  |
 |:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  9월 4일               | [Lesson 1] | [Assignment 1] |
-|  2 |  9월 11일               | Lesson 2 |  TBD |
-|  3 |  9월 18일               | Lesson 3 | TBD |
-|  4 |  9월 25일               | Lesson 4 | TBD |
+|  1 |  9월 4일               | [Lecture 1] | [Assignment 1] |
+|  2 |  9월 11일               | Lecture 2 |  TBD |
+|  3 |  9월 18일               | Lecture 3 | TBD |
+|  4 |  9월 25일               | Lecture 4 | TBD |
 |  - |  10월 2일               | **추석연휴** | TBD |
 |  - |  10월 9일               | **한글날** | TBD |
-|  5 |  10월 16일               | Lesson 5 | TBD |
-|  6 |  10월 23일               | Lesson 6 | TBD |
-|  7 |  10월 30일               | Lesson 7 | TBD |
-|  8 |  11월 6일              | Lesson 8 | TBD |
-|  9 |  11월 13일              | Lesson 9 | TBD |
-|  10 |  11월 20일              | Lesson 10 | TBD |
-| 11 |  11월 27일              | Lesson 11 | TBD |
-| 12 |  12월 4일              | Lesson 12 | TBD |
-| 13 |  12월 11일              | Lesson 13 | TBD |
-| 14 |  12월 18일                | Lesson 14 | TBD |
+|  5 |  10월 16일               | Lecture 5 | TBD |
+|  6 |  10월 23일               | Lecture 6 | TBD |
+|  7 |  10월 30일               | Lecture 7 | TBD |
+|  8 |  11월 6일              | Lecture 8 | TBD |
+|  9 |  11월 13일              | Lecture 9 | TBD |
+|  10 |  11월 20일              | Lecture 10 | TBD |
+| 11 |  11월 27일              | Lecture 11 | TBD |
+| 12 |  12월 4일              | Lecture 12 | TBD |
+| 13 |  12월 11일              | Lecture 13 | TBD |
+| 14 |  12월 18일                | Lecture 14 | TBD |
 
 
 
 
 
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-[Lesson 14]: Lessons/Lesson14.md
+[Lecture 1]: lecture/week-01
+[Lecture 2]: lecture/week-02
+[Lecture 3]: lecture/week-03
+[Lecture 4]: lecture/week-04
+[Lecture 5]: lecture/week-05
+[Lecture 6]: lecture/week-06
+[Lecture 7]: lecture/week-07
+[Lecture 8]: lecture/week-08
+[Lecture 9]: lecture/week-09
+[Lecture 10]: lecture/week-10
+[Lecture 11]: lecture/week-11
+[Lecture 12]: lecture/week-12
+[Lecture 13]: lecture/week-13
+[Lecture 14]: lecture/week-14
 
 [Assignment 1]: assignment/week-01/README.md
 
