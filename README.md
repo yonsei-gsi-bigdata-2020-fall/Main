@@ -1,23 +1,24 @@
-# Title
+# 빅데이터 분석 프로그래밍
 
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
+정보통신기술의 발전으로 다양한 종류의 데이터를 대량으로 확보하는 것이 용이해졌다. 또한, 지속적인 컴퓨팅 성능과 알고리즘의 발전으로 인해, 이전의 전통적인 방법인 수학 및 통계적인 방식과 같은 명시적인 방식으로 해결하지 못했던 과제들을 딥러닝과 같은 기술로 해결할 수 있게 되었다. 본 강의는 데이터 분석의 기본부터 기계학습에 대해 소개하며, 더 나아가 대량의 데이터, 즉 빅 데이터의 상황에서 머신러닝 알고리즘을 적용하는 방식에 대해 배운다.
 
-### Why you should know this (optional)
 
-Explain why students should care to learn the material presented in this class.
+### Why you should know this
+
+데이터 과학자가 되기 위해서 또는 데이터 사이언스 관련 업무를 하기 위해서는 단순히 이론적인 지식만으로는 부족합니다. 다양한 상황에 맞게 데이터 확보 및 처리를 할 수 있는 프로그래밍 능력이 뒷받침돼야 하며, 데이터베이스 또는 네트워크에 대한 이해도 또한 중요합니다. 이번 수업을 통해 꼭 Practical 한 Skill 들을 많이 얻어가시기 바라겠습니다.
 
 ## Prerequisites:  
 선수과목이 없지만, 프로그래밍 수업을 들어보셨던 분들에게는 조금 더 수월한 과목이 될 것입니다.
 
 ## Learning Outcomes
 
-### **[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
 학기말이 되면 여러분들은 다음과 같은 것들을 할 수 있게됩니다.
 
 1. 파이썬 프로그래밍
+1. 데이터베이스-웹서버 셋팅
 1. Scikit Learn을 이용한 머신러닝
 1. Hadoop과 Spark에 대한 이해
 1. AWS, Github, Shell 환경 활용
@@ -68,14 +69,13 @@ Explain why students should care to learn the material presented in this class.
 
 ## Assignment Schedule 
 
-**[INSTRUCTOR NOTE] REPLACE THE BELOW WITH LINKS TO YOUR ASSIGNMENTS, CORRECT DATES, AND SUBMISSION FORM**
 
 |                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Link to Assignment](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
-| [Link to Assignment](makeschool.com)                      |  day, Date    |  day, Date   | [Submit Assignment](makeschool.com)  |
+| [Survey](makeschool.com)                      |  금, 9월 4일  |  목, 9월 10일 | [Submit Assignment](makeschool.com)  |
+
+
+
 
 ## Class Assignments
 
