@@ -29,24 +29,24 @@
 
 **Class Times:** 금요일 1-3교시(9시-12시) (14 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  9월 4일               | [Lesson 1] |
-|  2 |  9월 11일               | [Lesson 2] |
-|  3 |  9월 18일               | [Lesson 3] |
-|  4 |  9월 25일               | [Lesson 4] |
-|  - |  10월 2일               | **추석연휴** |
-|  - |  10월 9일               | **한글날** |
-|  5 |  10월 16일               | [Lesson 5] |
-|  6 |  10월 23일               | [Lesson 6] |
-|  7 |  10월 30일               | [Lesson 7] |
-|  8 |  11월 6일              | [Lesson 8] |
-|  9 |  11월 13일              | [Lesson 9] |
-|  10 |  11월 20일              | [Lesson 10] |
-| 11 |  11월 27일              | [Lesson 11] |
-| 12 |  12월 4일              | [Lesson 12] |
-| 13 |  12월 11일              | [Lesson 13] |
-| 14 |  12월 18일                | [Lesson 14] |  
+| Class |          Date          |                 Topics                  |                 Assignment                  |
+|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
+|  1 |  9월 4일               | [Lesson 1] | [Assignment 1] |
+|  2 |  9월 11일               | Lesson 2 |  TBD |
+|  3 |  9월 18일               | Lesson 3 | TBD |
+|  4 |  9월 25일               | Lesson 4 | TBD |
+|  - |  10월 2일               | **추석연휴** | TBD |
+|  - |  10월 9일               | **한글날** | TBD |
+|  5 |  10월 16일               | Lesson 5 | TBD |
+|  6 |  10월 23일               | Lesson 6 | TBD |
+|  7 |  10월 30일               | Lesson 7 | TBD |
+|  8 |  11월 6일              | Lesson 8 | TBD |
+|  9 |  11월 13일              | Lesson 9 | TBD |
+|  10 |  11월 20일              | Lesson 10 | TBD |
+| 11 |  11월 27일              | Lesson 11 | TBD |
+| 12 |  12월 4일              | Lesson 12 | TBD |
+| 13 |  12월 11일              | Lesson 13 | TBD |
+| 14 |  12월 18일                | Lesson 14 | TBD |
 
 
 
@@ -66,6 +66,8 @@
 [Lesson 12]: Lessons/Lesson12.md
 [Lesson 13]: Lessons/Lesson13.md
 [Lesson 14]: Lessons/Lesson14.md
+
+[Assignment 1]: assignment/Assignment1.md
 
 ## Assignment Schedule 
 
