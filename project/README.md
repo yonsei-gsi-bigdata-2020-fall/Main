@@ -17,24 +17,20 @@
 
 총 두번의 발표가 진행될 예정입니다. **중간발표**는 문제정의와 데이터에 대한 설명 그리고 계획에 대해 5분내로 발표를 진행합니다. **기말발표**는 프로젝트에 대한 결과를 10분 내로 발표합니다.
 
-**Important note:** “Day 01” refers to the first calendar day of the project being assigned, and subsequent days will follow this reference:
-
-- Day 01: Project assigned, read the project spec, ask any clarifying questions you may have, begin designing how you would implement the project
-- Day 03: Build out guessing functionality, scoring system
-- Day 05: Establish how to traverse a word to find all instances of a letter
-- Day 06: Tie all the pieces of the project together, test with short and long words, and test with words that have repeat letters (like “apple”)
-- Day 07: Fix any remaining bugs, make sure your code has helpful comments, and submit the project!
-
 
 ### Phases and Deadlines (Optional)
 Deadlines of deliverables for the project, broken up by phases. Example given below:
 
-- **Phase 1:** Proposal - **Due Day 8 @ 11:59pm.**
-    - **Deliverables:**
+- **Phase 1:** Proposal - **Due Day TBD.**
+    - **제출방식:**
+        - README.md in the repo with proposal.
+    - Approval: Instructor will approve projects by start of class on Day 9.
+    
+- **Phase 1:** Final Presentation - **Due Day TBD.**
+    - **제출방식:**
         - Public GitHub Repository Link
         - README.md in the repo with proposal.
     - Approval: Instructor will approve projects by start of class on Day 9.
-
     
 ## Requirements
 List out requirements for the project here
@@ -70,6 +66,5 @@ Through this requirement, we hope to encourage you to think about projects with 
 ## Resources
 Additional resources that will help with this project, or that can be used as reference
 
-- Resource 1
-- Resource 2
-- Resource 3
+- [Sample Project 1](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/project/project_sample1.pdf)
+- [Sample Project 2](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/project/project_sample2.pdf)
