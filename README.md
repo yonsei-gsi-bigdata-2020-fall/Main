@@ -67,14 +67,14 @@
 [Lesson 13]: Lessons/Lesson13.md
 [Lesson 14]: Lessons/Lesson14.md
 
-[Assignment 1]: assignment/Assignment1.md
+[Assignment 1]: assignment/week-01/README.md
 
 ## Assignment Schedule 
 
 
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Survey](makeschool.com)                      |  금, 9월 4일  |  목, 9월 10일 | [Submit Assignment](makeschool.com)  |
+|                        Assignment                         | Date Assigned |   Due Date   |
+|:---------------------------------------------------------:|:-------------:|:------------:|
+| [Assignment 1]                      |  금, 9월 4일  |  목, 9월 10일 | 
 
 
 
