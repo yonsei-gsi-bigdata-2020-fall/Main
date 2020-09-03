@@ -5,10 +5,11 @@
 - Shell 기본 동작 익히기
 
 ## Things-to-do
-- Github 계정 생성 후 Organization에 조인
-- Slack 채널에 조인
-- (Windows) Git-bash 설치
-- (macos) git 설치
-- Anaconda 설치
-- 과제 설명
-- Kahoot 설문
+- [ ] Slack 채널에 조인
+- [ ] (Windows) Git-bash 설치
+- [ ] (macos) git 설치
+- [ ] Anaconda 설치
+- [ ] Kahoot 설문
+- [ ] 실습강의
+- [ ] Github 계정 생성 후 Organization에 조인
+- [ ] 과제 설명
