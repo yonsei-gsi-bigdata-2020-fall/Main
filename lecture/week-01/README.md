@@ -15,4 +15,5 @@
 - Github Organization에 조인
 - Kahoot 설문
 - 실습강의 [week-01](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/lecture/week-01/week-01.pdf)
+- 프로젝트 설명 [Project](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/project)
 - 과제설명 [Assignment-01](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/tree/master/assignment/week-01)
