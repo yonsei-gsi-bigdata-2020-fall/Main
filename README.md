@@ -72,9 +72,9 @@
 ## Assignment Schedule 
 
 
-|                        Assignment                         | Date Assigned |   Due Date   |
-|:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1]                      |  금, 9월 4일  |  목, 9월 10일 | 
+|                        Assignment                         | Date Assigned |   Due Date   | Tutorial | Point |
+|:---------------------------------------------------------:|:-------------:|:------------:|:------------:|:------------:|
+| [Assignment 1]                      |  금, 9월 4일  |  목, 9월 10일 | [Video](https://www.loom.com/share/936a6a621d9b4e01813143d4df7bf2ba) | 1 |
 
 
 
