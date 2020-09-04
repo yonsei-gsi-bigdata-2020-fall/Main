@@ -19,7 +19,6 @@
 
 
 ### Phases and Deadlines (Optional)
-Deadlines of deliverables for the project, broken up by phases. Example given below:
 
 - **Phase 1:** Proposal - **Due Day TBD.**
     - **제출방식:**
