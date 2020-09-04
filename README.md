@@ -69,7 +69,7 @@
 
 [Assignment 1]: assignment/week-01/README.md
 
-[FAQ 1]: FAQ.md
+[FAQ 1]: FAQ.md#week-01
 
 ## Assignment Schedule 
 
