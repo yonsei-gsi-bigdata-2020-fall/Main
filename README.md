@@ -29,24 +29,24 @@
 
 **Class Times:** 금요일 1-3교시(9시-12시) (14 class sessions)
 
-| Class |          Date          |                 Topics                  |                 Assignment                  |
-|:-----:|:----------------------:|:---------------------------------------:|:---------------------------------------:|
-|  1 |  9월 4일               | [Lecture 1] | [Assignment 1] |
-|  2 |  9월 11일               | Lecture 2 |  TBD |
-|  3 |  9월 18일               | Lecture 3 | TBD |
-|  4 |  9월 25일               | Lecture 4 | TBD |
-|  - |  10월 2일               | **추석연휴** | TBD |
-|  - |  10월 9일               | **한글날** | TBD |
-|  5 |  10월 16일               | Lecture 5 | TBD |
-|  6 |  10월 23일               | Lecture 6 | TBD |
-|  7 |  10월 30일               | Lecture 7 | TBD |
-|  8 |  11월 6일              | Lecture 8 | TBD |
-|  9 |  11월 13일              | Lecture 9 | TBD |
-|  10 |  11월 20일              | Lecture 10 | TBD |
-| 11 |  11월 27일              | Lecture 11 | TBD |
-| 12 |  12월 4일              | Lecture 12 | TBD |
-| 13 |  12월 11일              | Lecture 13 | TBD |
-| 14 |  12월 18일                | Lecture 14 | TBD |
+| Class |          Date          |  Topic  |        Detail      |        Assignment         | FAQ |
+|:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
+|  1 |  9월 4일                | Git, Shell | [Lecture 1] | [Assignment 1] | [FAQ 1]|
+|  2 |  9월 11일               | Python 기본 |Lecture 2 |  TBD ||
+|  3 |  9월 18일               | Python 고급 | Lecture 3 | TBD ||
+|  4 |  9월 25일               | Data Handling | Lecture 4 | TBD ||
+|  - |  10월 2일               | - |**추석연휴** | - ||
+|  - |  10월 9일               | - |**한글날** | - ||
+|  5 |  10월 16일              | Numpy와 Pandas | Lecture 5 | TBD ||
+|  6 |  10월 23일              | Matplotlib과 Seaborn | Lecture 6 | TBD ||
+|  7 |  10월 30일              | 지도학습 | Lecture 7 | TBD ||
+|  8 |  11월 6일               | 비지도학습 | Lecture 8 | TBD ||
+|  9 |  11월 13일              | Hadoop, Map Reduce | Lecture 9 | TBD ||
+|  10 |  11월 20일             | Spark | Lecture 10 | TBD ||
+|  11 |  11월 27일             | 이상탐지 | Lecture 11 | TBD ||
+|  12 |  12월 4일              | 인공신경망 | Lecture 12 | TBD ||
+|  13 |  12월 11일             | 시계열 분석, RNN | Lecture 13 | TBD ||
+|  14 |  12월 18일             | 프로젝트 발표 | - | - ||
 
 
 
@@ -68,6 +68,8 @@
 [Lecture 14]: lecture/week-14
 
 [Assignment 1]: assignment/week-01/README.md
+
+[FAQ 1]: FAQ.md
 
 ## Assignment Schedule 
 
@@ -99,10 +101,10 @@
 
 
 - 참여점수 (40%)
-    - 매주 제출되는 과제
-    - 슬랙을 활용한 참여도
-    - 이론 동영상 강의 시청 Percentage
-    - 출석
+    - 매주 제출되는 과제 (10%)
+    - 이론 동영상 강의 시청 Percentage (10%)
+    - 출석 (10%)
+    - 슬랙을 활용한 참여도 (*추가점수* 최대 5%)
 - 프로젝트 점수 (60%)
     - (TBD)자세한 평가기준은 추후 공개
 
