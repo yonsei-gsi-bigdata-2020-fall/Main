@@ -117,3 +117,8 @@
 - [Kahoot](https://kahoot.it) - 퀴즈때 사용할 서비스입니다.
 - [Cohoot](https://cohoot.link) - 수업 중 코드 복/붙을 위한 서비스입니다.
 - [Yscec](https://yscec.yonsei.ac.kr/course/view.php?id=171952) - 성적 확인, 동영상강의 시청용입니다.
+
+## Resource
+- Python/프로그래밍 기초를 공부하시고 싶으신 분들은 Coursera의 다음 강의를 추천 드립니다.
+    - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python)
+    - 연세대학교는 4월부터 세계 최대 글로벌 MOOC(온라인 공개강좌) 플랫폼인 Coursera와 ‘Coursera for Campus Coronavirus Initiative(C4CV)’ 협약을 체결하여 우리 대학뿐만 아니라 예일대, 듀크대, 존스 홉킨스대, 홍콩과기대, 구글, IBM 등의 글로벌 대학/기업에서 제공하는 3,800여개의 우수 강좌와 400여개의 전문 과정을 무료로 수강할 수 있는 기회를 제공하고 있습니다. [관련링크](https://yscec.yonsei.ac.kr/local/jinoboard/detail.php?id=32212)
