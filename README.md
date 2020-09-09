@@ -32,7 +32,7 @@
 | Class |          Date          |  Topic  |        Detail      |        Assignment         | FAQ |
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
 |  1 |  9월 4일                | Git, Shell | [Lecture 1] | [Assignment 1] | [FAQ 1]|
-|  2 |  9월 11일               | Python 기본 |Lecture 2 |  TBD ||
+|  2 |  9월 11일               | Python 기본 | [Lecture 2] |  TBD ||
 |  3 |  9월 18일               | Python 고급 | Lecture 3 | TBD ||
 |  4 |  9월 25일               | Data Handling | Lecture 4 | TBD ||
 |  - |  10월 2일               | - |**추석연휴** | - ||
