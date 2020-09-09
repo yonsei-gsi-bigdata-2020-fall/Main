@@ -13,4 +13,4 @@
 ## Things-to-do
 - FAQ
 - Kahoot 퀴즈
-- 이론강의 [week-01](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/lecture/week-02/week-02.pdf)
+- 이론강의 [week-02](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/lecture/week-02/week-02.pdf)
