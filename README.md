@@ -32,7 +32,7 @@
 | Class |          Date          |  Topic  |        Detail      |        Assignment         | FAQ |
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
 |  1 |  9월 4일                | Git, Shell | [Lecture 1] | [Assignment 1] | [FAQ 1]|
-|  2 |  9월 11일               | Python 기본 | [Lecture 2], [Practice 2] |  TBD ||
+|  2 |  9월 11일               | Python 기본 | [Lecture 2], [Practice 2] |  [Assignment 2] ||
 |  3 |  9월 18일               | Python 고급 | Lecture 3 | TBD ||
 |  4 |  9월 25일               | Data Handling | Lecture 4 | TBD ||
 |  - |  10월 2일               | - |**추석연휴** | - ||
@@ -68,6 +68,7 @@
 [Lecture 14]: lecture/week-14
 
 [Assignment 1]: assignment/week-01/README.md
+[Assignment 2]: assignment/week-02/README.md
 
 [Practice 2]: practice/week-02
 
@@ -79,7 +80,7 @@
 |                        Assignment                         | Date Assigned |   Due Date   | Tutorial | Point |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------:|:------------:|
 | [Assignment 1]                      |  금, 9월 4일  |  목, 9월 10일 | [Video](https://www.loom.com/share/936a6a621d9b4e01813143d4df7bf2ba) | 1 |
-| [Assignment 2]()                      |  금, 9월 11일  |  목, 9월 17일 | - | TBD |
+| [Assignment 2]                      |  금, 9월 11일  |  목, 9월 17일 | - | 30 |
 
 
 
