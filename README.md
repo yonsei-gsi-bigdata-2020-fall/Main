@@ -68,7 +68,7 @@
 [Lecture 14]: lecture/week-14
 
 [Assignment 1]: assignment/week-01/README.md
-[Assignment 2]: assignment/week-02/README.md
+[Assignment 2]: assignment/week-02
 
 [Practice 2]: practice/week-02
 
