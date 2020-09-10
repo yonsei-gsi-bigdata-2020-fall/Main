@@ -16,3 +16,27 @@
     - 성능을 측정할 수 있는 과제 (정확도, 속도 등)
 - 영상과 PDF를 조금 더 일찍 올려주실 수 있을까요?
     - 늦어도 수요일까지 올려드리겠습니다!
+
+## Week-02
+- `git pull` 명령어 입력시 다음과 같은 에러가 나옵니다
+    ```
+    remote: Enumerating objects: 9, done.
+    remote: Counting objects: 100% (9/9), done.
+    remote: Compressing objects: 100% (3/3), done.
+    remote: Total 5 (delta 2), reused 0 (delta 0), pack-reused 0
+    Unpacking objects: 100% (5/5), done.
+    From https://github.com/yonsei-gsi-bigdata-2020-fall/2009147090
+       2accfc0..ae97d0b  master     -> origin/master
+    Updating 2accfc0..ae97d0b
+    error: Your local changes to the following files would be overwritten by merge:
+        assignment/week-01/README.md
+    Please commit your changes or stash them before you merge.
+    Aborting
+    ```
+    - 이런경우 
+        ```
+        git add .
+        git commit -m "Sync my repo"
+        (터미널 화면이 바뀌면 :wq 입력)
+        git pull
+        ```
