@@ -33,7 +33,7 @@
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
 |  1 |  9월 4일                | Git, Shell | [Lecture 1] | [Assignment 1] | [FAQ 1]|
 |  2 |  9월 11일               | Python Part I | [Lecture 2], [Practice 2] |  [Assignment 2] ||
-|  3 |  9월 18일               | Python Part II | [Lecture 3] | TBD ||
+|  3 |  9월 18일               | Python Part II | [Lecture 3], [Practice 3] | TBD ||
 |  4 |  9월 25일               | Data Handling | Lecture 4 | TBD ||
 |  - |  10월 2일               | - |**추석연휴** | - ||
 |  - |  10월 9일               | - |**한글날** | - ||
@@ -71,6 +71,7 @@
 [Assignment 2]: assignment/week-02
 
 [Practice 2]: practice/week-02
+[Practice 3]: practice/week-03
 
 [FAQ 1]: FAQ.md#week-01
 
