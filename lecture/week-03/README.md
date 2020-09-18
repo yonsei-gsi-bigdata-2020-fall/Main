@@ -11,6 +11,7 @@
 
 
 ## Things-to-do
+- 프로젝트 조 만들기
 - 이론강의 [week-03](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/lecture/week-03/week-03.pdf)
 - Kahoot 퀴즈
 - Function 및 Class에 대한 실습
