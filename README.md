@@ -34,7 +34,7 @@
 |  1 |  9월 4일                | Git, Shell | [Lecture 1] | [Assignment 1] | [FAQ 1]|
 |  2 |  9월 11일               | Python Part I | [Lecture 2], [Practice 2] |  [Assignment 2] ||
 |  3 |  9월 18일               | Python Part II | [Lecture 3], [Practice 3] | [Assignment 3]  ||
-|  4 |  9월 25일               | Data | [Lecture 4] | [Assignment 4] ||
+|  4 |  9월 25일               | Data | [Lecture 4], [Practice 3] | [Assignment 4] ||
 |  - |  10월 2일               | - |**추석연휴** | - ||
 |  - |  10월 9일               | - |**한글날** | - ||
 |  5 |  10월 16일              | Numpy와 Pandas | Lecture 5 | TBD ||
@@ -74,6 +74,7 @@
 
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
+[Practice 4]: practice/week-04
 
 [FAQ 1]: FAQ.md#week-01
 
