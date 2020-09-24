@@ -34,7 +34,7 @@
 |  1 |  9월 4일                | Git, Shell | [Lecture 1] | [Assignment 1] | [FAQ 1]|
 |  2 |  9월 11일               | Python Part I | [Lecture 2], [Practice 2] |  [Assignment 2] ||
 |  3 |  9월 18일               | Python Part II | [Lecture 3], [Practice 3] | [Assignment 3]  ||
-|  4 |  9월 25일               | Data | [Lecture 4] | TBD ||
+|  4 |  9월 25일               | Data | [Lecture 4] | [Assignment 4] ||
 |  - |  10월 2일               | - |**추석연휴** | - ||
 |  - |  10월 9일               | - |**한글날** | - ||
 |  5 |  10월 16일              | Numpy와 Pandas | Lecture 5 | TBD ||
@@ -70,6 +70,7 @@
 [Assignment 1]: assignment/week-01
 [Assignment 2]: assignment/week-02
 [Assignment 3]: assignment/week-03
+[Assignment 4]: assignment/week-04
 
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
@@ -84,6 +85,7 @@
 | [Assignment 1]                      |  금, 9월 4일  |  목, 9월 10일 | [Video](https://www.loom.com/share/936a6a621d9b4e01813143d4df7bf2ba) | | 1 |
 | [Assignment 2]                      |  금, 9월 11일  |  목, 9월 17일 | - | [Video](https://www.loom.com/share/28ee806167b24992bf682d340fee5d70) | 30 |
 | [Assignment 3]                      |  금, 9월 18일  |  목, 9월 24일 | [Video](https://www.loom.com/share/994e8f9503c643629bd6fb67f727cac1) | | 34 |
+| [Assignment 4]                      |  금, 9월 25일  |  목, 10월 16일 |  | | 10 (P/NP) |
 
 
 
