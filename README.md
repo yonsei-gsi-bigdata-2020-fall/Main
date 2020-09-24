@@ -81,9 +81,9 @@
 
 |                        Assignment                         | Date Assigned |   Due Date   | Tutorial | Solution | Point |
 |:---------------------------------------------------------:|:-------------:|:------------:|:------------:|:------------:|:------------:|
-| [Assignment 1]                      |  금, 9월 4일  |  목, 9월 10일 | [Video](https://www.loom.com/share/936a6a621d9b4e01813143d4df7bf2ba) | | 1 |
-| [Assignment 2]                      |  금, 9월 11일  |  목, 9월 17일 | - | [Video](https://www.loom.com/share/28ee806167b24992bf682d340fee5d70) | 30 |
-| [Assignment 3]                      |  금, 9월 18일  |  목, 9월 24일 | [Video](https://www.loom.com/share/994e8f9503c643629bd6fb67f727cac1) | | 34 |
+| [Assignment 1]                      |  금, 9월 4일  |  목, 9월 10일, 23:55 | [Video](https://www.loom.com/share/936a6a621d9b4e01813143d4df7bf2ba) | | 1 |
+| [Assignment 2]                      |  금, 9월 11일  |  목, 9월 17일, 23:55 | - | [Video](https://www.loom.com/share/28ee806167b24992bf682d340fee5d70) | 30 |
+| [Assignment 3]                      |  금, 9월 18일  |  목, 9월 25일, 09:00 | [Video](https://www.loom.com/share/994e8f9503c643629bd6fb67f727cac1) | | 34 |
 
 
 
