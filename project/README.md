@@ -22,7 +22,7 @@
 
 - **Phase 1:** Proposal - **2020.10.15(목) 23:55**
     - **제출방식:**
-        - Presentation 파일
+        - 4주차 과제 README 파일
     
 - **Phase 2:** Final Presentation - **Due Day TBD.**
     - **제출방식:**
