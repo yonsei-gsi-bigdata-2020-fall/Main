@@ -37,7 +37,7 @@
 |  4 |  9월 25일               | Data | [Lecture 4], [Practice 3] | [Assignment 4] ||
 |  - |  10월 2일               | - |**추석연휴** | - ||
 |  - |  10월 9일               | - |**한글날** | - ||
-|  5 |  10월 16일              | Data Preprocessing | Lecture 5 | [Assignment 5] ||
+|  5 |  10월 16일              | Data Preprocessing | [Lecture 5] [Practice 5] | [Assignment 5] ||
 |  6 |  10월 23일              | Matplotlib과 Seaborn | Lecture 6 | TBD ||
 |  7 |  10월 30일              | 지도학습 | Lecture 7 | TBD ||
 |  8 |  11월 6일               | 비지도학습 | Lecture 8 | TBD ||
