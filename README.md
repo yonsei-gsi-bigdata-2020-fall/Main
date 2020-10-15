@@ -37,7 +37,7 @@
 |  4 |  9월 25일               | Data | [Lecture 4], [Practice 3] | [Assignment 4] ||
 |  - |  10월 2일               | - |**추석연휴** | - ||
 |  - |  10월 9일               | - |**한글날** | - ||
-|  5 |  10월 16일              | Numpy와 Pandas | Lecture 5 | TBD ||
+|  5 |  10월 16일              | Data Preprocessing | Lecture 5 | [Assignment 5] ||
 |  6 |  10월 23일              | Matplotlib과 Seaborn | Lecture 6 | TBD ||
 |  7 |  10월 30일              | 지도학습 | Lecture 7 | TBD ||
 |  8 |  11월 6일               | 비지도학습 | Lecture 8 | TBD ||
@@ -71,10 +71,12 @@
 [Assignment 2]: assignment/week-02
 [Assignment 3]: assignment/week-03
 [Assignment 4]: assignment/week-04
+[Assignment 5]: assignment/week-05
 
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
 [Practice 4]: practice/week-04
+[Practice 5]: practice/week-05
 
 [FAQ 1]: FAQ.md#week-01
 
@@ -87,6 +89,7 @@
 | [Assignment 2]                      |  금, 9월 11일  |  목, 9월 17일 | - | [Video](https://www.loom.com/share/28ee806167b24992bf682d340fee5d70) | 30 |
 | [Assignment 3]                      |  금, 9월 18일  |  목, 9월 24일 | [Video](https://www.loom.com/share/994e8f9503c643629bd6fb67f727cac1) |[Video](https://www.loom.com/share/fb6ec04c9df24a6ead6fcbacf10c752b) | 34 |
 | [Assignment 4]                      |  금, 9월 25일  |  목, 10월 15일 |  |  | 10 (P/NP) |
+| [Assignment 5]                      |  금, 10월 16일  |  목, 10월 22일 |  |  | 38 |
 
 
 
