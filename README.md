@@ -89,7 +89,7 @@
 | [Assignment 2]                      |  금, 9월 11일  |  목, 9월 17일 | - | [Video](https://www.loom.com/share/28ee806167b24992bf682d340fee5d70) | 30 |
 | [Assignment 3]                      |  금, 9월 18일  |  목, 9월 24일 | [Video](https://www.loom.com/share/994e8f9503c643629bd6fb67f727cac1) |[Video](https://www.loom.com/share/fb6ec04c9df24a6ead6fcbacf10c752b) | 34 |
 | [Assignment 4]                      |  금, 9월 25일  |  목, 10월 15일 |  |  | 10 (P/NP) |
-| [Assignment 5]                      |  금, 10월 16일  |  목, 10월 22일 |  |  | 38 |
+| [Assignment 5]                      |  금, 10월 16일  |  목, 10월 29일 |  |  | 38 |
 
 
 
