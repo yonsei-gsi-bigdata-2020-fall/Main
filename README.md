@@ -32,13 +32,13 @@
 | Class |          Date          |  Topic  |        Detail      |        Assignment         | FAQ |
 |:-----:|:----------------------:|:-------:|:------------------:|:-------------------------:|:---:|
 |  1 |  9월 4일                | Git, Shell | [Lecture 1] | [Assignment 1] | [FAQ 1]|
-|  2 |  9월 11일               | Python Part I | [Lecture 2], [Practice 2] |  [Assignment 2] ||
+|  2 |  9월 11일               | Python Part I | [Lecture 2], [Practice 2] |  [Assignment 2] | [FAQ 2]|
 |  3 |  9월 18일               | Python Part II | [Lecture 3], [Practice 3] | [Assignment 3]  ||
-|  4 |  9월 25일               | Data | [Lecture 4], [Practice 3] | [Assignment 4] ||
+|  4 |  9월 25일               | Data | [Lecture 4], [Practice 3] | [Assignment 4] | [FAQ 4] |
 |  - |  10월 2일               | - |**추석연휴** | - ||
 |  - |  10월 9일               | - |**한글날** | - ||
-|  5 |  10월 16일              | Data Preprocessing | [Lecture 5] [Practice 5] | [Assignment 5] ||
-|  6 |  10월 23일              | Matplotlib과 Seaborn | Lecture 6 | TBD ||
+|  5 |  10월 16일              | Data Preprocessing | [Lecture 5], [Practice 5] | [Assignment 5] | [FAQ 5]|
+|  6 |  10월 23일              | EDA | [Lecture 6], [Practice 6] | None ||
 |  7 |  10월 30일              | 지도학습 | Lecture 7 | TBD ||
 |  8 |  11월 6일               | 비지도학습 | Lecture 8 | TBD ||
 |  9 |  11월 13일              | Hadoop, Map Reduce | Lecture 9 | TBD ||
@@ -77,8 +77,12 @@
 [Practice 3]: practice/week-03
 [Practice 4]: practice/week-04
 [Practice 5]: practice/week-05
+[Practice 6]: practice/week-06
 
 [FAQ 1]: FAQ.md#week-01
+[FAQ 2]: FAQ.md#week-02
+[FAQ 4]: FAQ.md#week-04
+[FAQ 5]: FAQ.md#week-05
 
 ## Assignment Schedule 
 
