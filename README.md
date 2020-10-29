@@ -39,7 +39,7 @@
 |  - |  10월 9일               | - |**한글날** | - ||
 |  5 |  10월 16일              | Data Preprocessing | [Lecture 5], [Practice 5] | [Assignment 5] | [FAQ 5]|
 |  6 |  10월 23일              | EDA | [Lecture 6], [Practice 6] | None ||
-|  7 |  10월 30일              | 지도학습 | Lecture 7 | TBD ||
+|  7 |  10월 30일              | 지도학습 | [Lecture 7], [Practice 7] | [Assignment 7] ||
 |  8 |  11월 6일               | 비지도학습 | Lecture 8 | TBD ||
 |  9 |  11월 13일              | Hadoop, Map Reduce | Lecture 9 | TBD ||
 |  10 |  11월 20일             | Spark | Lecture 10 | TBD ||
@@ -72,12 +72,14 @@
 [Assignment 3]: assignment/week-03
 [Assignment 4]: assignment/week-04
 [Assignment 5]: assignment/week-05
+[Assignment 7]: assignment/week-07
 
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
 [Practice 4]: practice/week-04
 [Practice 5]: practice/week-05
 [Practice 6]: practice/week-06
+[Practice 7]: practice/week-07
 
 [FAQ 1]: FAQ.md#week-01
 [FAQ 2]: FAQ.md#week-02
@@ -94,6 +96,7 @@
 | [Assignment 3]                      |  금, 9월 18일  |  목, 9월 24일 | [Video](https://www.loom.com/share/994e8f9503c643629bd6fb67f727cac1) |[Video](https://www.loom.com/share/fb6ec04c9df24a6ead6fcbacf10c752b) | 34 |
 | [Assignment 4]                      |  금, 9월 25일  |  목, 10월 15일 |  |  | 10 (P/NP) |
 | [Assignment 5]                      |  금, 10월 16일  |  목, 10월 29일 |  |  | 38 |
+| [Assignment 7]                      |  금, 10월 30일  |  목, 11월 13일 |  |  | 50 |
 
 
 
