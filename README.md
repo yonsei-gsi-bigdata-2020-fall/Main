@@ -73,7 +73,7 @@
 [Assignment 4]: assignment/week-04
 [Assignment 5]: assignment/week-05
 [Assignment 7]: assignment/week-07
-[Assignment 8]: assignment/week-08
+
 
 [Practice 2]: practice/week-02
 [Practice 3]: practice/week-03
@@ -81,6 +81,7 @@
 [Practice 5]: practice/week-05
 [Practice 6]: practice/week-06
 [Practice 7]: practice/week-07
+[Practice 8]: practice/week-08
 
 [FAQ 1]: FAQ.md#week-01
 [FAQ 2]: FAQ.md#week-02
