@@ -40,8 +40,8 @@
 |  5 |  10월 16일              | Data Preprocessing | [Lecture 5], [Practice 5] | [Assignment 5] | [FAQ 5]|
 |  6 |  10월 23일              | EDA | [Lecture 6], [Practice 6] | None ||
 |  7 |  10월 30일              | 지도학습 | [Lecture 7], [Practice 7] | [Assignment 7] ||
-|  8 |  11월 6일               | 비지도학습 | [Lecture 8], [Practice 8] | TBD ||
-|  9 |  11월 13일              | 인공신경망 | Lecture 9 | TBD ||
+|  8 |  11월 6일               | 비지도학습 | [Lecture 8], [Practice 8] | None ||
+|  9 |  11월 13일              | 인공신경망 | [Lecture 9], [Practice 9] | None ||
 |  10 |  11월 20일             | 이상탐지 | Lecture 10 | TBD ||
 |  11 |  11월 27일             | 시계열 분석, RNN | Lecture 11 | TBD ||
 |  12 |  12월 4일              | Hadoop, Map Reduce, Spark | Lecture 12 | TBD ||
@@ -82,6 +82,7 @@
 [Practice 6]: practice/week-06
 [Practice 7]: practice/week-07
 [Practice 8]: practice/week-08
+[Practice 9]: practice/week-09
 
 [FAQ 1]: FAQ.md#week-01
 [FAQ 2]: FAQ.md#week-02
