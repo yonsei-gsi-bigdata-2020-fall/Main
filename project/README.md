@@ -24,7 +24,10 @@
     - **제출방식:**
         - 4주차 과제 README 파일
     
-- **Phase 2:** Final Presentation - **Due Day TBD.**
+- **Phase 2:** Final Presentation - 
+    - **제출일:**
+        - 발표:**2020.12.18. (금)**
+        - 보고서:**2020.12.25. (금)**
     - **제출방식:**
         - Presentation 파일
         - Report(한/영) (max 10 pages)
