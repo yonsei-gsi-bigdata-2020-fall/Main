@@ -43,9 +43,9 @@
 |  8 |  11월 6일               | 비지도학습 | [Lecture 8], [Practice 8] | None ||
 |  9 |  11월 13일              | 인공신경망 | [Lecture 9], [Practice 9] | None ||
 |  10 |  11월 20일             | 이상탐지 | [Lecture 10], [Practice 10] | None ||
-|  11 |  11월 27일             | 시계열 분석, RNN | [Lecture 11] | TBD ||
-|  12 |  12월 4일              | Hadoop, Map Reduce, Spark | Lecture 12 | TBD ||
-|  13 |  12월 11일             | Elastic stack | Lecture 13 | TBD ||
+|  11 |  11월 27일             | 시계열 분석, RNN | [Lecture 11] [Practice 11] | None ||
+|  12 |  12월 4일              | Hadoop, Map Reduce, Spark | Lecture 12 | None ||
+|  13 |  12월 11일             | Elastic stack | Lecture 13 | None ||
 |  14 |  12월 18일             | 프로젝트 발표 | - | - ||
 
 
@@ -84,6 +84,7 @@
 [Practice 8]: practice/week-08
 [Practice 9]: practice/week-09
 [Practice 10]: practice/week-10
+[Practice 11]: practice/week-11
 
 [FAQ 1]: FAQ.md#week-01
 [FAQ 2]: FAQ.md#week-02
