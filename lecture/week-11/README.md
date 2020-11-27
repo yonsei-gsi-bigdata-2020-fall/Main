@@ -13,4 +13,4 @@
 ## Things-to-do
 - AWS Educate 가입 안내/확인
 - 이론강의 [week-11](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/lecture/week-11/week-11.pdf)
-- 실습강의 [week-11](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/practice/week-11): Anomaly Detection
+- 실습강의 [week-11](https://github.com/yonsei-gsi-bigdata-2020-fall/Main/blob/master/practice/week-11): Time Series Analysis
