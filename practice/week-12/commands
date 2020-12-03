@@ -1,0 +1,30 @@
+hdfs dfsadmin -report
+yarn node -list
+hadoop fs -ls /
+
+
+
+
+sudo yum update -y
+sudo yum install git -y
+git clone https://github.com/thejungwon/AWS_EMR
+curl -L -o Answers.csv.zip https://www.dropbox.com/s/e7tdyo7pqbxuomv/Answers.csv.zip?dl=1
+wget https://gist.githubusercontent.com/thejungwon/38bb2dacd73e2f3c47a96ffafc72c848/raw/b82cfc1fd76efea0bc671203c85e8972f389bd74/mr_word_count.py
+unzip Answers.csv.zip
+hadoop fs -mkdir /test
+hadoop fs -put Answers.csv /test/Answers.csv
+hadoop fs -ls /test
+ls -hl
+rm Answers.csv.zip
+rm Answers.csv
+
+
+
+virtualenv -p python3 venv
+. venv/bin/activate
+pip3 install mrjob
+
+python3 mr_word_count.py -r hadoop hdfs:///test/Answers.csv --output-dir hdfs:///test/output
+hadoop fs -ls /test/output
+hadoop fs -getmerge /test/output/ output.txt
+tail output.txt
