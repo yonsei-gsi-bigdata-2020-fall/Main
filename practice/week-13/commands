@@ -1,0 +1,11 @@
+
+
+curl -X GET "localhost:9200"
+
+echo "kibanaadmin:`openssl passwd -apr1`" | sudo tee -a /etc/nginx/htpasswd.users
+
+/usr/share/logstash/bin/logstash -e 'input { stdin { } } output { stdout {} }'
+
+/usr/share/logstash/bin/logstash -e 'input { http { } } output { stdout {} }'
+
+/usr/share/logstash/bin/logstash -f logstash.conf
